@@ -1,0 +1,21 @@
+.contenedor{
+    width: 500px;
+    min-height: 200px;
+    background-color: #ccc;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 30px;
+    overflow: hidden;
+}
+
+img{
+    border: 2px solid black;
+}
+
+h3{
+    margin-bottom: 0;
+}
+
+ul, p{
+    margin-top: 10px;
+}
